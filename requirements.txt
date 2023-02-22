@@ -1,0 +1,19 @@
+websockets
+catsim == 0.15.6
+fastapi==0.92.0
+numpy~=1.21.5
+redis~=4.0.2
+preprocessing
+uvicorn[standard]
+gunicorn
+SQLAlchemy~=1.4.28
+PyMySQL
+pylint
+pydantic~=1.8.2
+setuptools~=57.0.0
+alembic == 1.7.6
+requests==2.28.2
+jinja2
+python-multipart
+starlette==0.25.0
+neo4j
